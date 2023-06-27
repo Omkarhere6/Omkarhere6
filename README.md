@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Omkarhere6
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Omkarhere6/Omkarhere6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+
+DateTime.ParseExact(deskResData.tsDeskResFrom, "ddd MMM dd yyyy HH:mm:ss 'GMT'K '(India Standard Time)'", CultureInfo.InvariantCulture);
